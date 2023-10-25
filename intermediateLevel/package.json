@@ -1,0 +1,24 @@
+{
+  "name": "intermediatelevel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm run start --workspace=client",
+    "clientTest": "npm run test --workspace=client",
+    "server": "npm run start --workspace=server",
+    "serverTest": "npm run test --workspace=server",
+    "test": "concurrently --kill-others-on-fail \"npm run clientTest\" \"npm run serverTest\"",
+    "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages\\server",
+    "packages\\client"
+  ],
+  "devDependencies": {
+    "concurrently": "^7.2.2"
+  }
+}
