@@ -1,3 +1,10 @@
+Marcus helped me
+https://www.geeksforgeeks.org/reverse-a-string-in-javascript/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
+https://developer.mozilla.org/en-US/docs/Web/API/console/assert
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
+
 # Kenzie Academy Challenge: Unit Testing
 
 Follow the instructions provided on `kenzie.instructure` for this challenge. In the basic challenge, the `script.js` file is a placeholder. Feel free to rename it or add additional files to the project.
