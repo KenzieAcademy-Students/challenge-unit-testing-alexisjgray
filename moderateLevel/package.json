@@ -1,0 +1,26 @@
+{
+  "name": "connect-4-se-apr-2020-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "nyc --instrument false mochify --transform [ babelify --ignore [ test ] --plugins [ babel-plugin-istanbul ] ]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhoelzer/connectFourTests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhoelzer/connectFourTests/issues"
+  },
+  "homepage": "https://github.com/mhoelzer/connectFourTests#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "babel-plugin-istanbul": "^6.0.0",
+    "babelify": "^10.0.0",
+    "mochify": "^8.1.0",
+    "nyc": "^15.1.0"
+  }
+}
