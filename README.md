@@ -4,6 +4,12 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/type
 https://developer.mozilla.org/en-US/docs/Web/API/console/assert
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
+https://stackoverflow.com/questions/5667888/counting-the-occurrences-frequency-of-array-elements
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+https://www.w3schools.com/jsref/jsref_split.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval#never_use_eval!
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 
 # Kenzie Academy Challenge: Unit Testing
 
